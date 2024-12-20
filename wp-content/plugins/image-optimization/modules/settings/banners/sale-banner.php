@@ -69,6 +69,7 @@ class Sale_Banner {
 					display: flex;
 					justify-content: end;
 					align-items: center;
+					direction: ltr;
 					height: 80px;
 				}
 				.elementor-black-friday-banner img {

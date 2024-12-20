@@ -4,7 +4,7 @@ Tags: image optimization, image compression, convert webp, convert avif, perform
 Requires at least: 6.2
 Tested up to: 6.7
 Requires PHP: 7.4
-Stable tag: 1.6.0
+Stable tag: 1.6.1
 License: GPL-3
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
@@ -118,6 +118,10 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 5. Image Optimizer - Image Optimization in the Media Uploader
 
 == Changelog ==
+
+= 1.6.1 - 2024-11-28 =
+* Fix: RTL issue in certain scenarios
+
 = 1.6.0 - 2024-11-19 =
 * New: Added support for images up to 25Mb for eligible plans
 * Tweak: Avoid creating past due actions
